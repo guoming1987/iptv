@@ -2,4 +2,4 @@ vless://4af18bfb-bc1c-4764-9a75-5cdd84b36320@27.71.26.112:443?type=tcp&security=
 vless://77a3914c-9e40-4e3a-aecd-5dde89add4ad@tj3d679.glddns.com:443?type=tcp&security=reality&fp=firefox&pbk=1QOT8epQmAjGkntxIpr9pJvqsfEiLpUKLkymuUg-QE4&sni=dl.kgvn.garenanow.com&flow=xtls-rprx-vision&sid=8d0b81e8&spx=%2F#Gl%20Viettel-S23U
 vless://4f37fc99-5a45-4de8-82f8-4a3800af6055@14.241.210.178:443?type=tcp&security=reality&fp=firefox&pbk=i-Vpg4C_Dg3S_1rdtpuKmdqiAWmvzxOh_Srv_pmZynU&sni=dl.kgvn.garenanow.com&sid=&spx=%2F#Viettel-KD5-S23U
 vless://35883895-96d0-41d8-98fa-4577967bb6c1@13.250.15.209:443?type=tcp&security=reality&fp=firefox&pbk=1wKgkGiq_pshFQyI7DUxZj2Y50fCD85WnkhPxDZoHg8&sni=dl.kgvn.garenanow.com&flow=xtls-rprx-vision&sid=6a6c1b82&spx=%2F#AWS-S23U
-trojan://5eec2f79-e004-440a-96ac-eeb2da67912c@27.71.25.227:443?security=tls&headerType=none&type=tcp&sni=dl.kgvn.garenanow.com#%F0%9F%9F%A2+%5BDP%5D+HCM
+vless://648c8d79-b425-48fd-b679-27bb11e15b2a@tj3d679.glddns.com:443?security=reality&encryption=none&pbk=IugSq0K5Zf4tEMBDLs6M7ky_GCsOlTiyTmTIfBFNjVg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dl.kgvn.garenanow.com&sid=2f6417ff#GL-Minh

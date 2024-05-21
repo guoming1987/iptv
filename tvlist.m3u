@@ -1359,6 +1359,167 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 #EXTINF:-1 group-title="Korea" tvg-logo="https://i.imgur.com/g6Nhwmb.png",YTN2
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="General" tvg-logo="https://www.abn.co.kr/resources/images/logo.png",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IFLXi6n.png",All the K-Pop
+https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/dtfiG9k.png",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="General;News" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Jdy3WNm.png",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/01UmXRe.png",BBS TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/sOoS7RQ.png",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png",C channel
+https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/zwZASOB.png",CGNTV South Korea
+https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/JiSfEBv.png",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/OYmOL20.png",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/z3L8uNB.png",CTS TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/5wLJzb0.png",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aCeuhon.png",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/pllIMGi.png",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3E72tK9.png",Edaily TV
+https://ythls.armelin.one/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/yzwtMOC.png",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/YL3rpd7.png",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/ETPQwui.png",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/F7QDbEy.png",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ey7Htm8.png",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/f1tz5fg.png",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5oraHc0.png",HLAM-DTV
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/lthyx2P.png",HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FGsKCH3.png",HLAQ-DTV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3VSuYsn.png",HLAT-DTV
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vYXAkgy.png",HLAW-DTV
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ABdmZMc.png",HLCG-DTV
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HCbvAiM.png",HLCQ-DTV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LlYQR8m.png",HLCT-DTV
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/grr8BlV.png",HLDF-DTV
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Srsw4Mi.png",HLDH-DTV
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BBCoqIf.png",HLDP-DTV
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/byss0Ld.png",HLDQ-DTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zVunmpQ.png",HLDR-DTV
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iAz0Psw.png",HLKJDTV
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jiFOYi5.png",HLKU-DTV
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/oWB3ApR.png",HLQS-DTV
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/IcexRXG.png",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/NJpECmq.png",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/DoNOuZE.png",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Y5Zg5SR.png",Jobplus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7mZnPO5.png",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/fGQatSH.png",Korea Economy TV
+https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/dJeNehc.png",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/G2fnMXG.png",Maeil Business TV
+https://ythls.armelin.one/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cnawqOu.png",MBC Every1
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/UKdB8vD.png",National Assembly TV
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pOSroOE.png",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DfECkgB.png",NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/Q9xsDQo.png",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/7KmXNci.png",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7s6JtcU.png",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/Ncd4CL3.png",Pax Economy TV
+https://ythls.armelin.one/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg",RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/VY6uEE9.png",SBS News
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FimaHhq.png",SEN TV
+https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/Hq3yjqA.png",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/BgbJp5X.png",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://tbs.seoul.kr/common/images/gnb/logo.png",TBS eFM
+https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iOnWS6V.png",TBS TV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/g8UJus1.png",Tomato TV
+https://ythls.armelin.one/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/IkFev3L.png",WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/hfXjVJd.png",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/g6Nhwmb.png",YTN2
+https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/50VQSBk.png",YTN DMB
+https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
+#EXTINF:-1 group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png",YTN Science
+https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/EbQKy78.png",YTN World
+https://ythls.armelin.one/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/VSq7b5E.jpg",Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",Disney Junior (544p)

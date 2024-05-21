@@ -1931,6 +1931,16 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="China",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV6_logo_2015.png/revision/latest?cb=20220514112708&path-prefix=vi"group-title="China",CCTV6 - China Movie
+https://epg.pw/stream/f2a3f4d8ff377b5c5fb5eadcb530e207bb3c8a43f7d674e2edd6da7f850b010b.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/CCTV10_logo_2015.png/revision/latest?cb=20220509125329&path-prefix=vi"group-title="China",CCTV10
+http://103.130.141.67:81/live/10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/CCTV11_logo_2015.png/revision/latest?cb=20220509125336&path-prefix=vi"group-title="China",CCTV11
+http://103.130.141.67:81/live/11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/CCTV12_logo_2015.png/revision/latest?cb=20220509125954&path-prefix=vi"group-title="China",CCTV12
+http://103.130.141.67:81/live/12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/96/CCTV-17_HD.png/revision/latest?cb=20230320092913&path-prefix=vi"group-title="China",CCTV17
+https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-logo="https://i.imgur.com/ObtFGBW.png",PNN (360p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-logo="https://api.netlinkbroadcaster.com/uploads/Town_HDTV_7f2a0b567a.jpg",TOWN TV

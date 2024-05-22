@@ -83,6 +83,8 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/iiY2dI1.png",Đồng Nai 3
 https://dethich.pw/dongnai3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Vietnam",Đồng Tháp 1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/1naF5b7.png",Đồng Tháp 2
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/ZEAxzoF.png",Gia Lai

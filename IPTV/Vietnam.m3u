@@ -13,6 +13,8 @@ http://171.238.181.52:18080/194.m3u8
 http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network HD
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 
@@ -143,6 +145,8 @@ http://thtg.vn:8001/stream_hi.m3u8
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/ccbQMZs/THTV2-BEARTV.webp",Trà Vinh 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPZeGPa.png" group-title="Vietnam",Tuyên Quang
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/x76KZwh/vinhphuc-BEARTV.png",Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w84210236.m3u8
 #EXTINF:-1 group-title="Vietnam",VNEWS

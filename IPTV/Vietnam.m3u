@@ -18,7 +18,7 @@ http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network HD
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 
-HTV
+
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
@@ -34,7 +34,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 
-Địa Phương
+
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân

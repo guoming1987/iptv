@@ -15,3 +15,137 @@ http://171.238.181.52:18080/307.m3u8
 http://171.238.181.52:18080/308.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network HD
 http://s4.nihontv.net:21585/cartoon/index.m3u8
+
+HTV
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
+https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
+https://vc.101vn.com/htv/htvcmb.php?id=31973
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+http://171.238.180.25:18080/304.m3u8
+
+Địa Phương
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang
+https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/WEMfHas.png",Bà Rịa Vũng Tàu
+https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/j9lbGel.png",Bắc Giang
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/6HQeLRw.png",Bắc Kạn
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/ASbQz3j.png",Bac Lieu TV (1080p)
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png",Bắc Ninh
+http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/tLtzj7y/binh-dinh-tv-BEARTV.png",Bình Định
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/Soe6MC8.png",Bình Dương 1
+https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/pEaPECX.png",Bình Dương 2
+https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png",Bình Phước 1
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/LsDFD9J.png",Bình Phước 2
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/4Kk0DFV.png",Bình Thuận
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",Cà Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png",Cần Thơ
+https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/H7YrC5h/caobang-BEARTV.png",Cao Bằng
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/pXM42MF/drt1-BEARTV.png",Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png",Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://imgur.com/gFfZvTW.png",Đắk Lắk TV
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/cha7S9e.png",Đắk Nông TV
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/hMDRDxN.png",Điện Biên
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/IoIXiw9.png",Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/Qsz0RHH.png",Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/iiY2dI1.png",Đồng Nai 3
+https://dethich.pw/dongnai3/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/1naF5b7.png",Đồng Tháp 2
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/ZEAxzoF.png",Gia Lai
+https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/zXqjjUf.png",Hà Giang
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/NgcSFah.png",Hà Nam
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png",Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/KrYncYX.png",Hải Dương
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png",Hậu Giang
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/37L4BWF/hoabinh-BEARTV.png",Hòa Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
+https://tv.ktv.org.vn/hls/ktv1.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png",Kiên GiangTV
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png",Kiên GiangTV1
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/5W4hPyD.png",Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/bdrBV0D/laocaitv-BEARTV.png",Lào Cai
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/j6T7sqT.png",Long An
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/juBOaJJ.png",Nam Định
+https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png",Nghệ An
+https://natv.vncdn.vn/natvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/1G1QSGf/ninhthuan-BEARTV.png",Ninh Thuận
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/hDPtwzj/phuyentv-BEARTV.png",Phú Yên
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/5hkJWkY/Quang-Ninh1-BEARTV.webp",Quảng Ninh 1
+http://103.90.220.236/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/c3v2x4X/Quang-Ninh3-BEARTV.webp",Quảng Ninh 3
+http://103.90.220.236/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png",Quảng Trị
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png",Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/RvJg1zF/TIENGIANG-BEARTV.png",Tiền Giang
+http://thtg.vn:8001/stream_hi.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/dQPnsWt/travinhtv-BEARTV.png",Trà Vinh
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/ccbQMZs/THTV2-BEARTV.webp",Trà Vinh 2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/x76KZwh/vinhphuc-BEARTV.png",Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w84210236.m3u8
+#EXTINF:-1 group-title="Vietnam",VNEWS
+https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/BwZRL7P.png",Yen Bai TV (1080p)
+https://live.yenbaitv.org.vn/hls/livestream.m3u8

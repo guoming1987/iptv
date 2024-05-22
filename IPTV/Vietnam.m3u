@@ -137,6 +137,8 @@ http://113.161.4.48:8080/phuyen/tv/index.m3u8
 http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/c3v2x4X/Quang-Ninh3-BEARTV.webp",Quảng Ninh 3
 http://103.90.220.236/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
+https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png",Quảng Trị
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png",Tây Ninh

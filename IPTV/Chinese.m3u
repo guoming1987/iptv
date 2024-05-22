@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-3 综艺
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-4 中文国际
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-5+ 体育赛事
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-6 电影
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-7 国防军事
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-8 电视剧
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-10 科教
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-11 戏曲
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-14 少儿
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-16 奥林匹克
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo=""group-title="China",CCTV-17 农业农村
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png"group-title="China",CCTV-4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="China",凤凰香港

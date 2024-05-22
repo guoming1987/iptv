@@ -13,3 +13,5 @@ http://171.238.181.52:18080/194.m3u8
 http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network HD
+http://s4.nihontv.net:21585/cartoon/index.m3u8

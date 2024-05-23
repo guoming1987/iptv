@@ -127,12 +127,20 @@ https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37L4BWF/hoabinh-BEARTV.png"group-title="Địa phương",Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPiyyGP.png"group-title="Địa phương",Hải Phòng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png"group-title="Địa phương",Hải Phòng+
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6yWw44.png"group-title="Địa phương",Hưng Yên
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png"group-title="Địa phương",Khánh Hòa
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 #EXTINF:-1 tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png"group-title="Địa phương",Kiên GiangTV
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png"group-title="Địa phương",Kiên GiangTV1
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png"group-title="Địa phương",Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png"group-title="Địa phương",Lai Châu
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5W4hPyD.png"group-title="Địa phương",Lâm Đồng
@@ -151,6 +159,8 @@ https://natv.vncdn.vn/natvlive/tv1live.m3u8
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G1QSGf/ninhthuan-BEARTV.png"group-title="Địa phương",Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F8W6WX.png"group-title="Địa phương",Ninh Bình
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hDPtwzj/phuyentv-BEARTV.png"group-title="Địa phương",Phú Yên
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hkJWkY/Quang-Ninh1-BEARTV.webp"group-title="Địa phương",Quảng Ninh 1
@@ -159,8 +169,26 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FTyvVYO.png"group-title="Địa phương",Quảng Ngãi
 https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fNSjhT.png"group-title="Địa phương",Quảng Nam
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png"group-title="Địa phương",Quảng Trị
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcDV4Bv.png"group-title="Địa phương",Sóc Trăng 1
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8tT6KL.png"group-title="Địa phương",Sóc Trăng 2
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjkm6Zg.png"group-title="Địa phương",Sơn La
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwOQBas.png"group-title="Địa phương",Thái Bình
+https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fse70QS.png"group-title="Địa phương",Thái Nguyên
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwTCbZ5.png"group-title="Địa phương",Thanh Hóa
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQ7jCa6.png"group-title="Địa phương",Thừa Thiên Huế
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPZeGPa.png"group-title="Địa phương",Tuyên Quang
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png"group-title="Địa phương",Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvJg1zF/TIENGIANG-BEARTV.png"group-title="Địa phương",Tiền Giang

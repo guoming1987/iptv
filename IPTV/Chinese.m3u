@@ -161,6 +161,36 @@ https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hongkong",TVB 星河频道
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/31.png"group-title="Hongkong",港台電視 31
+https://live.hkdvb.com/hls/live/31.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/32.png"group-title="Hongkong",港台電視 32
+https://live.hkdvb.com/hls/live/32.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/33.png"group-title="Hongkong",CCTV-1 港澳版
+https://live.hkdvb.com/hls/live/33.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/332.png"group-title="Hongkong",Now NEWS 新聞台
+https://live.hkdvb.com/hls/live/332.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/33.png"group-title="Hongkong",CGTN Documentary
+https://live.hkdvb.com/hls/live/34.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/33.png"group-title="Hongkong",CGTN English
+https://live.hkdvb.com/hls/live/35.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/630.png"group-title="Hongkong",Now Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/76.png"group-title="Hongkong",HOY 國際財經台
+https://live.hkdvb.com/hls/live/76.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/77.png"group-title="Hongkong",HOY TV
+https://live.hkdvb.com/hls/live/77.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/78.png"group-title="Hongkong",HOY TV 資訊台
+https://live.hkdvb.com/hls/live/78.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/81.png"group-title="Hongkong",Jade 翡翠台
+https://live.hkdvb.com/hls/live/81.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/83.png"group-title="Hongkong",News 新聞台
+https://live.hkdvb.com/hls/live/83.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/84.png"group-title="Hongkong",Pearl 明珠台 CANTONESE
+https://live.hkdvb.com/hls/live/84.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/85.png"group-title="Hongkong",鳳凰香港台
+https://live.hkdvb.com/hls/live/85.m3u8?token=680446446314873
+#EXTINF:-1 tvg-logo="https://info.hkanimal.com/png_logo/96.png"group-title="Hongkong",ViuTV Six
+https://live.hkdvb.com/hls/live/96.m3u8?token=680446446314873
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k28Kc3o.png"group-title="Taiwan",Good
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxFRoft.png"group-title="Taiwan",Good 2

@@ -325,3 +325,5 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png"group-title="Nước Ngoài",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài"tvg-logo="",KIX
+https://z88.ubtvfans.com/live/rx4/2970/a59f6f55acddacf79d87a00cb6784dd8/index.m3u8

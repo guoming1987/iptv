@@ -65,11 +65,13 @@ http://news1.live14.com/stream/news1.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png"group-title="Thailand",V2H2
 https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
-#EXTINF:-1 :http-user-agent="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU":http-referrer="Thailand"group-title=""tvg-logo="",มวลชนทีวี
+#EXTINF:-1 group-title="Japan",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="Thailand",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 :http-user-agent="https://i.imgur.com/FvEp1S2.png":http-referrer="Thailand"group-title=""tvg-logo="",13 Siam Thai
+#EXTINF:-1 group-title="Thailand",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 :http-user-agent="https://i.imgur.com/76XWq08.png":http-referrer="Cambodia"group-title=""tvg-logo="",TV 3 (720p)
+#EXTINF:-1 group-title="Cambodia",TV 3 (720p)
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-#EXTINF:-1 :http-user-agent="https://i.imgur.com/YRiulCU.png":http-referrer="Thailand"group-title=""tvg-logo="",3 HD (1080p)
+#EXTINF:-1 group-title="Thailand",3 HD (1080p)
 https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8

@@ -15,6 +15,10 @@ http://171.238.181.52:18080/307.m3u8
 http://171.238.181.52:18080/308.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
 http://171.238.181.52:18080/156.m3u8
+#EXTINF:-1 group-title="VTV"tvg-logo="",VTV8
+https://live-on-v2-vndt.sigmaott.com/manifest/vtv8/playlist_720p.m3u8
+#EXTINF:-1 group-title="VTV"tvg-logo="",VTV9
+https://s3-fpt-cdn.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/lBjkQB7v1EDPCvPc/337a54767a7233703637564336316a6df9479333e57180416eb99d43c0895f9fd96fbb68decd0891a7266915653228b4f98d7166af62fedb19ecd6823aa3a54f6e83ad67108759c7607813a9c61e1ac65630c36e2b6d4eaacfd25847aa67a87806ef2431304e49a5e620c121fb682abc7efb4f397423ea6b94d20ab59cdfa59a5d9a9a801d88c64269935bb59abbbb15085719c7f014117ab58f3505d76e2a090081e75c9b7ce6a43937b1956985a03a682c88ee7c2ad3805596bc1bbb578326e80bdf99f6aaeef78923f7ad2014b62ae64475123aacab966e7eea490a7775c58b4275e68295ad83247f9829e18f8534a9bc14f5d4c2dad0b009be888ddf6fb1b8635d2f073d1a05065e1300b5999cdd13629f6b5652cdae368f6590c6f4baaf56bdba31af1f0054d3762b63456837fa893af43d2701d8516208fdd4a904328aa745212c492f14f5da082ddb556103e557a11835823dd54cf3cf072e8cc1b04fb6d6dd30d732b551448bb7ac575d599eb981b3c26362754445fc95c7f6415b27/720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png"group-title="Thiếu Nhi",Cartoon Network HD
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png"group-title="VTC",VTC1

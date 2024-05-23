@@ -51,3 +51,17 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU"group-title="Thailand",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",Channel 8
+http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",@TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Thailand",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png"group-title="Thailand",V2H2
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8

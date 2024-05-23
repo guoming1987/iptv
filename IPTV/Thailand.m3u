@@ -43,7 +43,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/thaipbs.png"group-title="Thailand",Thai PBS (480p) [Not 24/7]
 https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png"group-title="Thailand",TV5 HD (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png"group-title="Thailand",Thai CH5 HD (1080p)
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tvb.png"group-title="Thailand",TVB Thai
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
